@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: devops-container
-        image: ahmetgurr/devops:v2
+        image: ahmetgurr/devops:v1
         ports:
         - containerPort: 5000
