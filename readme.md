@@ -1,6 +1,6 @@
-# Bulut Bilişim ve DevOps Teknolojileri
+# Bulut Bilişim ve DevOps Teknolojileri - Ankasoft
 
-Bu repository Milli Teknoloji Akademisi çatısındaki Bulut Bilişim ve DevOps Teknolojileri dersi için oluşturulmuştur.
+Bu repository Milli Teknoloji Akademisi çatısındaki Ankasoft tarafından verilen Bulut Bilişim ve DevOps Teknolojileri dersi için oluşturulmuştur.
 
 ## Architecture
 ![Ekran görüntüsü 2024-02-07 211719](https://github.com/ahmetgurr/DevOps/assets/92628011/d6db3a98-47ff-4bf4-b451-2c69ea68ec42)
