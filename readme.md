@@ -26,7 +26,7 @@ Bu repository Milli Teknoloji Akademisi çatısındaki Bulut Bilişim ve DevOps 
  Bu adımlarla birlikte DevOps sürecini oluşturduğumuzda daha verimli bir yazılım geliştirme ve dağıtım 
 süreci elde edebiliriz.
  
- ## Video
+ # Video
 https://github.com/ahmetgurr/DevOps/assets/92628011/c3efb7a0-704b-4220-afe7-5233b872d56d
 
 # Project View
