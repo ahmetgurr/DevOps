@@ -1,12 +1,11 @@
-# Cloud Computing and DevOps Technologies
+# Bulut Bilişim ve DevOps Teknolojileri
 
 Bu repository Milli Teknoloji Akademisi çatısındaki Bulut Bilişim ve DevOps Teknolojileri dersi için oluşturulmuştur.
 
 ## Architecture
 
-<img src="https://user-images.githubusercontent.com/58326260/178852509-172ccb09-fa87-48e7-9c0b-8a6e70783854.jpg" width="500" height="500"/>
 
-## Tech Stack 
+## Proje Süreci 
  - IDE(Visual Studio Code)
  - Git Repo(GitHub)
  - Code Scan(Snyk)
@@ -17,11 +16,21 @@ Bu repository Milli Teknoloji Akademisi çatısındaki Bulut Bilişim ve DevOps 
  - CI / CD(ArgoCD)
  - Monitoring(Prometheus, Grafana)
 
+## Entegrasyon Avantajları 
+ - Kolay izleme ve raporlama imkanı
+ - Otomatik ve sürekli dağıtım
+ - Hızlı yazılım dağıtımı
+ - Tekrarlanabilir ve tutarlı dağıtım süreçleri
+ - Modüler yapı sayesinde değişikliklerin sadece ilgili kısımlarda etkili olması
+ Bu adımlarla birlikte DevOps sürecini oluşturduğumuzda daha verimli bir yazılım geliştirme ve dağıtım 
+süreci elde edebiliriz.
  
  ## Video
  
 | DevOps video |
 | ---------------------------- |
 
-[ekankaydirecipe.webm](https://github.com/ahmetgurr/RecipesApp/assets/92628011/23c6a8b4-aed9-4cdd-a97c-dcd7faa99d46)
 
+# Project View
+
+</br>
